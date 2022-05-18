@@ -22,3 +22,4 @@ _testmain.go
 *.exe
 *.bench
 go.sum
+.DS_Store
